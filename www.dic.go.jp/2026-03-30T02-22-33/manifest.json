@@ -1,0 +1,22 @@
+{
+  "startTime": "2026-03-30T02:22:33.389Z",
+  "url": "http://www.dic.go.jp/",
+  "pages": [
+    {
+      "url": "http://www.dic.go.jp/",
+      "title": "預金保険機構",
+      "depth": 0,
+      "path": "/Users/zhaoshan/site-scraper-output/www.dic.go.jp/2026-03-30T02-22-33",
+      "links": 89,
+      "timestamp": "2026-03-30T02:24:01.216Z"
+    }
+  ],
+  "totalImages": 0,
+  "totalDocuments": 0,
+  "totalLinks": 89,
+  "endTime": "2026-03-30T02:24:01.247Z",
+  "stats": {
+    "pagesCrawled": 1,
+    "visitedUrls": 1
+  }
+}

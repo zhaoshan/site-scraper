@@ -1,0 +1,910 @@
+{
+  "url": "http://www.dic.go.jp/",
+  "title": "預金保険機構",
+  "timestamp": "2026-03-30T02:24:01.215Z",
+  "depth": 0,
+  "stats": {
+    "total": 89,
+    "webpages": 89,
+    "documents": 0,
+    "images": 0
+  },
+  "links": {
+    "webpages": [
+      {
+        "text": "このページの本文へ移動",
+        "href": "https://www.dic.go.jp/#tmp_honbun",
+        "type": "webpage"
+      },
+      {
+        "text": "(无文本)",
+        "href": "https://www.dic.go.jp/index.html",
+        "type": "webpage"
+      },
+      {
+        "text": "English",
+        "href": "https://www.dic.go.jp/english/index.html",
+        "type": "webpage"
+      },
+      {
+        "text": "よくあるご質問",
+        "href": "https://www.dic.go.jp/yokinsha/shitsumon_mokuji.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金者のみなさま",
+        "href": "https://www.dic.go.jp/yokinsha/index.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険制度の基礎知識",
+        "href": "https://www.dic.go.jp/yokinsha/kihon.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険制度の対象金融機関",
+        "href": "https://www.dic.go.jp/yokinsha/kikan.html",
+        "type": "webpage"
+      },
+      {
+        "text": "振り込め詐欺にあったら",
+        "href": "https://www.dic.go.jp/yokinsha/page_000204.html",
+        "type": "webpage"
+      },
+      {
+        "text": "長い間お取引のない預金（休眠預金）",
+        "href": "https://www.dic.go.jp/katsudo/010_00123.html",
+        "type": "webpage"
+      },
+      {
+        "text": "まんがでわかる預金保険制度",
+        "href": "https://www.dic.go.jp/yokinsha/manga.html",
+        "type": "webpage"
+      },
+      {
+        "text": "あなたの預金保護チェック",
+        "href": "https://www.dic.go.jp/yokinsha/manga_check.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険制度クイズ",
+        "href": "https://www.dic.go.jp/yokinsha/quiz.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険制度を詳しく",
+        "href": "https://www.dic.go.jp/yokinsha/shikumi.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険制度の概要",
+        "href": "https://www.dic.go.jp/yokinsha/gaiyo.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険制度の解説",
+        "href": "https://www.dic.go.jp/yokinsha/kaisetsu.html",
+        "type": "webpage"
+      },
+      {
+        "text": "万が一金融機関が破綻した時",
+        "href": "https://www.dic.go.jp/yokinsha/hatan.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険料率",
+        "href": "https://www.dic.go.jp/yokinsha/hoken.html",
+        "type": "webpage"
+      },
+      {
+        "text": "関係法令",
+        "href": "https://www.dic.go.jp/yokinsha/horei.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険制度に関する用語一覧",
+        "href": "https://www.dic.go.jp/yokinsha/yogo.html",
+        "type": "webpage"
+      },
+      {
+        "text": "機構について",
+        "href": "https://www.dic.go.jp/kikotoha/index.html",
+        "type": "webpage"
+      },
+      {
+        "text": "理事長ごあいさつ",
+        "href": "https://www.dic.go.jp/kikotoha/rijicho.html",
+        "type": "webpage"
+      },
+      {
+        "text": "組織の概要",
+        "href": "https://www.dic.go.jp/kikotoha/soshiki.html",
+        "type": "webpage"
+      },
+      {
+        "text": "業務内容",
+        "href": "https://www.dic.go.jp/kikotoha/gyomu.html",
+        "type": "webpage"
+      },
+      {
+        "text": "定款・業務方法書",
+        "href": "https://www.dic.go.jp/kikotoha/teikan.html",
+        "type": "webpage"
+      },
+      {
+        "text": "運営委員会",
+        "href": "https://www.dic.go.jp/kikotoha/unei.html",
+        "type": "webpage"
+      },
+      {
+        "text": "中期目標・業務方針・実績評価書",
+        "href": "https://www.dic.go.jp/kikotoha/chuki.html",
+        "type": "webpage"
+      },
+      {
+        "text": "採用情報",
+        "href": "https://www.dic.go.jp/kikotoha/saiyo.html",
+        "type": "webpage"
+      },
+      {
+        "text": "人事関連情報",
+        "href": "https://www.dic.go.jp/kikotoha/jinji.html",
+        "type": "webpage"
+      },
+      {
+        "text": "情報公開・個人情報保護",
+        "href": "https://www.dic.go.jp/kikotoha/johokokai.html",
+        "type": "webpage"
+      },
+      {
+        "text": "機構財務リポート",
+        "href": "https://www.dic.go.jp/kikotoha/zaimu.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険機構の子会社",
+        "href": "https://www.dic.go.jp/kikotoha/kogaisha.html",
+        "type": "webpage"
+      },
+      {
+        "text": "活動・実績",
+        "href": "https://www.dic.go.jp/katsudo/index.html",
+        "type": "webpage"
+      },
+      {
+        "text": "資金援助等実績",
+        "href": "https://www.dic.go.jp/katsudo/page_000880.html",
+        "type": "webpage"
+      },
+      {
+        "text": "金融機関の破綻処理",
+        "href": "https://www.dic.go.jp/katsudo/page_001084.html",
+        "type": "webpage"
+      },
+      {
+        "text": "資本増強・資本参加",
+        "href": "https://www.dic.go.jp/katsudo/shihonzokyo.html",
+        "type": "webpage"
+      },
+      {
+        "text": "資金交付制度",
+        "href": "https://www.dic.go.jp/katsudo/010_00188.html",
+        "type": "webpage"
+      },
+      {
+        "text": "健全金融機関等からの資産買取り",
+        "href": "https://www.dic.go.jp/katsudo/shisankaitori.html",
+        "type": "webpage"
+      },
+      {
+        "text": "特定回収困難債権の買取り",
+        "href": "https://www.dic.go.jp/katsudo/kaishukonnan.html",
+        "type": "webpage"
+      },
+      {
+        "text": "不良債権回収、責任追及",
+        "href": "https://www.dic.go.jp/katsudo/kaishu-tsuikyu.html",
+        "type": "webpage"
+      },
+      {
+        "text": "金融機関等の秩序ある処理",
+        "href": "https://www.dic.go.jp/katsudo/chitsujo.html",
+        "type": "webpage"
+      },
+      {
+        "text": "資金調達（借入れ・預金保険機構債）",
+        "href": "https://www.dic.go.jp/katsudo/shikinchotatsu.html",
+        "type": "webpage"
+      },
+      {
+        "text": "立入検査",
+        "href": "https://www.dic.go.jp/katsudo/tachiiri.html",
+        "type": "webpage"
+      },
+      {
+        "text": "国際業務",
+        "href": "https://www.dic.go.jp/katsudo/kokusai.html",
+        "type": "webpage"
+      },
+      {
+        "text": "調査研究",
+        "href": "https://www.dic.go.jp/katsudo/chosa.html",
+        "type": "webpage"
+      },
+      {
+        "text": "日本振興銀行関連",
+        "href": "https://www.dic.go.jp/katsudo/shinko.html",
+        "type": "webpage"
+      },
+      {
+        "text": "口座登録法・口座管理法に基づく業務",
+        "href": "https://www.dic.go.jp/katsudo/kozafuban.html",
+        "type": "webpage"
+      },
+      {
+        "text": "発表・広報",
+        "href": "https://www.dic.go.jp/happyo/index.html",
+        "type": "webpage"
+      },
+      {
+        "text": "新着情報",
+        "href": "https://www.dic.go.jp/happyo/new.html",
+        "type": "webpage"
+      },
+      {
+        "text": "調達情報",
+        "href": "https://www.dic.go.jp/happyo/chotatsu.html",
+        "type": "webpage"
+      },
+      {
+        "text": "資料・パンフレット",
+        "href": "https://www.dic.go.jp/happyo/shiryo.html",
+        "type": "webpage"
+      },
+      {
+        "text": "講師派遣",
+        "href": "https://www.dic.go.jp/happyo/koshihaken.html",
+        "type": "webpage"
+      },
+      {
+        "text": "機構の名をかたる詐欺などにご注意！",
+        "href": "https://www.dic.go.jp/happyo/sagi-chui.html",
+        "type": "webpage"
+      },
+      {
+        "text": "その他のお知らせ",
+        "href": "https://www.dic.go.jp/happyo/sonota.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険機構の名をかたった「なりすましメール」にご注意ください",
+        "href": "https://www.dic.go.jp/happyo/010_00281.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険機構職員の名をかたる詐欺にご注意ください",
+        "href": "https://www.dic.go.jp/happyo/page_001787_00001.html",
+        "type": "webpage"
+      },
+      {
+        "text": "「「預金保険法による保険金の支払、預金等に係る債権の額の把握又は預金等債権の買取りに関する事務」及び「金融機関等の更生手続の特例等に関する法律による更生手続に属する行為、再生手続に属する行為又は破産手続に属する行為の実施に関する事務」を対象とする特定個人情報保護評価書（案）」に関する意見募集について",
+        "href": "https://www.dic.go.jp/kikotoha/page_001997_00001.html",
+        "type": "webpage"
+      },
+      {
+        "text": "借入金利競争入札（口座情報連絡等勘定＜令和8年3月24日＞）結果について",
+        "href": "https://www.dic.go.jp/katsudo/page_2026_402.html",
+        "type": "webpage"
+      },
+      {
+        "text": "借入金利競争入札（被害回復分配金支払勘定＜令和8年3月19日＞）結果について",
+        "href": "https://www.dic.go.jp/katsudo/page_2026_403.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険料率の変更について",
+        "href": "https://www.dic.go.jp/yokinsha/page_2026_026.html",
+        "type": "webpage"
+      },
+      {
+        "text": "特定回収困難債権の第40回買取りの実施について",
+        "href": "https://www.dic.go.jp/katsudo/page_2025_187.html",
+        "type": "webpage"
+      },
+      {
+        "text": "一般競争入札（令和7事業年度決算書類等及び行政コスト計算財務書類等作成支援業務）",
+        "href": "https://www.dic.go.jp/happyo/page_2026_010.html",
+        "type": "webpage"
+      },
+      {
+        "text": "令和7年度 第24回振り込め詐欺救済法に基づく公告について（概要）",
+        "href": "https://www.dic.go.jp/yokinsha/page_2026_405.html",
+        "type": "webpage"
+      },
+      {
+        "text": "海外事情[米国FDIC:基金の概況 2025年第4四半期末]",
+        "href": "https://www.dic.go.jp/katsudo/page_2026_028.html",
+        "type": "webpage"
+      },
+      {
+        "text": "令和7年度 第23回振り込め詐欺救済法に基づく公告について（概要）",
+        "href": "https://www.dic.go.jp/yokinsha/page_2026_022.html",
+        "type": "webpage"
+      },
+      {
+        "text": "立入検査の実施状況",
+        "href": "https://www.dic.go.jp/katsudo/tachiiri_jisshijokyo.html",
+        "type": "webpage"
+      },
+      {
+        "text": "新着情報RSS",
+        "href": "https://www.dic.go.jp/news.rdf",
+        "type": "webpage"
+      },
+      {
+        "text": "一般競争入札（破綻処理業務システム更改に係るセキュリティアドバイザ業務）の結果について",
+        "href": "https://www.dic.go.jp/happyo/page_2025_031.html",
+        "type": "webpage"
+      },
+      {
+        "text": "調達情報一覧",
+        "href": "https://www.dic.go.jp/happyo/chotatsu_kokoku.html",
+        "type": "webpage"
+      },
+      {
+        "text": "名寄せ",
+        "href": "https://www.dic.go.jp/yokinsha/page_000017.html",
+        "type": "webpage"
+      },
+      {
+        "text": "破綻処理の方法",
+        "href": "https://www.dic.go.jp/yokinsha/page_000019.html",
+        "type": "webpage"
+      },
+      {
+        "text": "保護範囲を超える預金等の取扱い",
+        "href": "https://www.dic.go.jp/yokinsha/page_000021.html",
+        "type": "webpage"
+      },
+      {
+        "text": "相殺",
+        "href": "https://www.dic.go.jp/yokinsha/page_000022.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険制度とは？",
+        "href": "https://www.dic.go.jp/yokinsha/page_000013.html",
+        "type": "webpage"
+      },
+      {
+        "text": "対象預金",
+        "href": "https://www.dic.go.jp/yokinsha/page_000015.html",
+        "type": "webpage"
+      },
+      {
+        "text": "保護の範囲",
+        "href": "https://www.dic.go.jp/yokinsha/page_000016.html",
+        "type": "webpage"
+      },
+      {
+        "text": "対象金融機関",
+        "href": "https://www.dic.go.jp/yokinsha/page_000014.html",
+        "type": "webpage"
+      },
+      {
+        "text": "保護の仕組み",
+        "href": "https://www.dic.go.jp/yokinsha/page_000018.html",
+        "type": "webpage"
+      },
+      {
+        "text": "保護される預金の払戻し時期",
+        "href": "https://www.dic.go.jp/yokinsha/page_000020.html",
+        "type": "webpage"
+      },
+      {
+        "text": "サイトマップ",
+        "href": "https://www.dic.go.jp/sitemap.html",
+        "type": "webpage"
+      },
+      {
+        "text": "サイトのご利用方法",
+        "href": "https://www.dic.go.jp/goriyohoho.html",
+        "type": "webpage"
+      },
+      {
+        "text": "事務所案内",
+        "href": "https://www.dic.go.jp/jimusho.html",
+        "type": "webpage"
+      },
+      {
+        "text": "リンク・著作権等",
+        "href": "https://www.dic.go.jp/chosakuken.html",
+        "type": "webpage"
+      },
+      {
+        "text": "過去のホームページデータ",
+        "href": "https://www.dic.go.jp/toshokan.html",
+        "type": "webpage"
+      },
+      {
+        "text": "プライバシーポリシー",
+        "href": "https://www.dic.go.jp/kojinjoho.html",
+        "type": "webpage"
+      },
+      {
+        "text": "ウェブアクセシビリティ方針",
+        "href": "https://www.dic.go.jp/accessibility.html",
+        "type": "webpage"
+      },
+      {
+        "text": "ソーシャルメディア運用方針",
+        "href": "https://www.dic.go.jp/social.html",
+        "type": "webpage"
+      },
+      {
+        "text": "お問い合わせ・ご意見",
+        "href": "https://www.dic.go.jp/toiawase.html",
+        "type": "webpage"
+      },
+      {
+        "text": "採用情報",
+        "href": "https://www.dic.go.jp/happyo/page_001931.html",
+        "type": "webpage"
+      },
+      {
+        "text": "リンク集",
+        "href": "https://www.dic.go.jp/link.html",
+        "type": "webpage"
+      }
+    ],
+    "documents": [],
+    "images": [],
+    "all": [
+      {
+        "text": "このページの本文へ移動",
+        "href": "https://www.dic.go.jp/#tmp_honbun",
+        "type": "webpage"
+      },
+      {
+        "text": "(无文本)",
+        "href": "https://www.dic.go.jp/index.html",
+        "type": "webpage"
+      },
+      {
+        "text": "English",
+        "href": "https://www.dic.go.jp/english/index.html",
+        "type": "webpage"
+      },
+      {
+        "text": "よくあるご質問",
+        "href": "https://www.dic.go.jp/yokinsha/shitsumon_mokuji.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金者のみなさま",
+        "href": "https://www.dic.go.jp/yokinsha/index.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険制度の基礎知識",
+        "href": "https://www.dic.go.jp/yokinsha/kihon.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険制度の対象金融機関",
+        "href": "https://www.dic.go.jp/yokinsha/kikan.html",
+        "type": "webpage"
+      },
+      {
+        "text": "振り込め詐欺にあったら",
+        "href": "https://www.dic.go.jp/yokinsha/page_000204.html",
+        "type": "webpage"
+      },
+      {
+        "text": "長い間お取引のない預金（休眠預金）",
+        "href": "https://www.dic.go.jp/katsudo/010_00123.html",
+        "type": "webpage"
+      },
+      {
+        "text": "まんがでわかる預金保険制度",
+        "href": "https://www.dic.go.jp/yokinsha/manga.html",
+        "type": "webpage"
+      },
+      {
+        "text": "あなたの預金保護チェック",
+        "href": "https://www.dic.go.jp/yokinsha/manga_check.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険制度クイズ",
+        "href": "https://www.dic.go.jp/yokinsha/quiz.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険制度を詳しく",
+        "href": "https://www.dic.go.jp/yokinsha/shikumi.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険制度の概要",
+        "href": "https://www.dic.go.jp/yokinsha/gaiyo.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険制度の解説",
+        "href": "https://www.dic.go.jp/yokinsha/kaisetsu.html",
+        "type": "webpage"
+      },
+      {
+        "text": "万が一金融機関が破綻した時",
+        "href": "https://www.dic.go.jp/yokinsha/hatan.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険料率",
+        "href": "https://www.dic.go.jp/yokinsha/hoken.html",
+        "type": "webpage"
+      },
+      {
+        "text": "関係法令",
+        "href": "https://www.dic.go.jp/yokinsha/horei.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険制度に関する用語一覧",
+        "href": "https://www.dic.go.jp/yokinsha/yogo.html",
+        "type": "webpage"
+      },
+      {
+        "text": "機構について",
+        "href": "https://www.dic.go.jp/kikotoha/index.html",
+        "type": "webpage"
+      },
+      {
+        "text": "理事長ごあいさつ",
+        "href": "https://www.dic.go.jp/kikotoha/rijicho.html",
+        "type": "webpage"
+      },
+      {
+        "text": "組織の概要",
+        "href": "https://www.dic.go.jp/kikotoha/soshiki.html",
+        "type": "webpage"
+      },
+      {
+        "text": "業務内容",
+        "href": "https://www.dic.go.jp/kikotoha/gyomu.html",
+        "type": "webpage"
+      },
+      {
+        "text": "定款・業務方法書",
+        "href": "https://www.dic.go.jp/kikotoha/teikan.html",
+        "type": "webpage"
+      },
+      {
+        "text": "運営委員会",
+        "href": "https://www.dic.go.jp/kikotoha/unei.html",
+        "type": "webpage"
+      },
+      {
+        "text": "中期目標・業務方針・実績評価書",
+        "href": "https://www.dic.go.jp/kikotoha/chuki.html",
+        "type": "webpage"
+      },
+      {
+        "text": "採用情報",
+        "href": "https://www.dic.go.jp/kikotoha/saiyo.html",
+        "type": "webpage"
+      },
+      {
+        "text": "人事関連情報",
+        "href": "https://www.dic.go.jp/kikotoha/jinji.html",
+        "type": "webpage"
+      },
+      {
+        "text": "情報公開・個人情報保護",
+        "href": "https://www.dic.go.jp/kikotoha/johokokai.html",
+        "type": "webpage"
+      },
+      {
+        "text": "機構財務リポート",
+        "href": "https://www.dic.go.jp/kikotoha/zaimu.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険機構の子会社",
+        "href": "https://www.dic.go.jp/kikotoha/kogaisha.html",
+        "type": "webpage"
+      },
+      {
+        "text": "活動・実績",
+        "href": "https://www.dic.go.jp/katsudo/index.html",
+        "type": "webpage"
+      },
+      {
+        "text": "資金援助等実績",
+        "href": "https://www.dic.go.jp/katsudo/page_000880.html",
+        "type": "webpage"
+      },
+      {
+        "text": "金融機関の破綻処理",
+        "href": "https://www.dic.go.jp/katsudo/page_001084.html",
+        "type": "webpage"
+      },
+      {
+        "text": "資本増強・資本参加",
+        "href": "https://www.dic.go.jp/katsudo/shihonzokyo.html",
+        "type": "webpage"
+      },
+      {
+        "text": "資金交付制度",
+        "href": "https://www.dic.go.jp/katsudo/010_00188.html",
+        "type": "webpage"
+      },
+      {
+        "text": "健全金融機関等からの資産買取り",
+        "href": "https://www.dic.go.jp/katsudo/shisankaitori.html",
+        "type": "webpage"
+      },
+      {
+        "text": "特定回収困難債権の買取り",
+        "href": "https://www.dic.go.jp/katsudo/kaishukonnan.html",
+        "type": "webpage"
+      },
+      {
+        "text": "不良債権回収、責任追及",
+        "href": "https://www.dic.go.jp/katsudo/kaishu-tsuikyu.html",
+        "type": "webpage"
+      },
+      {
+        "text": "金融機関等の秩序ある処理",
+        "href": "https://www.dic.go.jp/katsudo/chitsujo.html",
+        "type": "webpage"
+      },
+      {
+        "text": "資金調達（借入れ・預金保険機構債）",
+        "href": "https://www.dic.go.jp/katsudo/shikinchotatsu.html",
+        "type": "webpage"
+      },
+      {
+        "text": "立入検査",
+        "href": "https://www.dic.go.jp/katsudo/tachiiri.html",
+        "type": "webpage"
+      },
+      {
+        "text": "国際業務",
+        "href": "https://www.dic.go.jp/katsudo/kokusai.html",
+        "type": "webpage"
+      },
+      {
+        "text": "調査研究",
+        "href": "https://www.dic.go.jp/katsudo/chosa.html",
+        "type": "webpage"
+      },
+      {
+        "text": "日本振興銀行関連",
+        "href": "https://www.dic.go.jp/katsudo/shinko.html",
+        "type": "webpage"
+      },
+      {
+        "text": "口座登録法・口座管理法に基づく業務",
+        "href": "https://www.dic.go.jp/katsudo/kozafuban.html",
+        "type": "webpage"
+      },
+      {
+        "text": "発表・広報",
+        "href": "https://www.dic.go.jp/happyo/index.html",
+        "type": "webpage"
+      },
+      {
+        "text": "新着情報",
+        "href": "https://www.dic.go.jp/happyo/new.html",
+        "type": "webpage"
+      },
+      {
+        "text": "調達情報",
+        "href": "https://www.dic.go.jp/happyo/chotatsu.html",
+        "type": "webpage"
+      },
+      {
+        "text": "資料・パンフレット",
+        "href": "https://www.dic.go.jp/happyo/shiryo.html",
+        "type": "webpage"
+      },
+      {
+        "text": "講師派遣",
+        "href": "https://www.dic.go.jp/happyo/koshihaken.html",
+        "type": "webpage"
+      },
+      {
+        "text": "機構の名をかたる詐欺などにご注意！",
+        "href": "https://www.dic.go.jp/happyo/sagi-chui.html",
+        "type": "webpage"
+      },
+      {
+        "text": "その他のお知らせ",
+        "href": "https://www.dic.go.jp/happyo/sonota.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険機構の名をかたった「なりすましメール」にご注意ください",
+        "href": "https://www.dic.go.jp/happyo/010_00281.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険機構職員の名をかたる詐欺にご注意ください",
+        "href": "https://www.dic.go.jp/happyo/page_001787_00001.html",
+        "type": "webpage"
+      },
+      {
+        "text": "「「預金保険法による保険金の支払、預金等に係る債権の額の把握又は預金等債権の買取りに関する事務」及び「金融機関等の更生手続の特例等に関する法律による更生手続に属する行為、再生手続に属する行為又は破産手続に属する行為の実施に関する事務」を対象とする特定個人情報保護評価書（案）」に関する意見募集について",
+        "href": "https://www.dic.go.jp/kikotoha/page_001997_00001.html",
+        "type": "webpage"
+      },
+      {
+        "text": "借入金利競争入札（口座情報連絡等勘定＜令和8年3月24日＞）結果について",
+        "href": "https://www.dic.go.jp/katsudo/page_2026_402.html",
+        "type": "webpage"
+      },
+      {
+        "text": "借入金利競争入札（被害回復分配金支払勘定＜令和8年3月19日＞）結果について",
+        "href": "https://www.dic.go.jp/katsudo/page_2026_403.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険料率の変更について",
+        "href": "https://www.dic.go.jp/yokinsha/page_2026_026.html",
+        "type": "webpage"
+      },
+      {
+        "text": "特定回収困難債権の第40回買取りの実施について",
+        "href": "https://www.dic.go.jp/katsudo/page_2025_187.html",
+        "type": "webpage"
+      },
+      {
+        "text": "一般競争入札（令和7事業年度決算書類等及び行政コスト計算財務書類等作成支援業務）",
+        "href": "https://www.dic.go.jp/happyo/page_2026_010.html",
+        "type": "webpage"
+      },
+      {
+        "text": "令和7年度 第24回振り込め詐欺救済法に基づく公告について（概要）",
+        "href": "https://www.dic.go.jp/yokinsha/page_2026_405.html",
+        "type": "webpage"
+      },
+      {
+        "text": "海外事情[米国FDIC:基金の概況 2025年第4四半期末]",
+        "href": "https://www.dic.go.jp/katsudo/page_2026_028.html",
+        "type": "webpage"
+      },
+      {
+        "text": "令和7年度 第23回振り込め詐欺救済法に基づく公告について（概要）",
+        "href": "https://www.dic.go.jp/yokinsha/page_2026_022.html",
+        "type": "webpage"
+      },
+      {
+        "text": "立入検査の実施状況",
+        "href": "https://www.dic.go.jp/katsudo/tachiiri_jisshijokyo.html",
+        "type": "webpage"
+      },
+      {
+        "text": "新着情報RSS",
+        "href": "https://www.dic.go.jp/news.rdf",
+        "type": "webpage"
+      },
+      {
+        "text": "一般競争入札（破綻処理業務システム更改に係るセキュリティアドバイザ業務）の結果について",
+        "href": "https://www.dic.go.jp/happyo/page_2025_031.html",
+        "type": "webpage"
+      },
+      {
+        "text": "調達情報一覧",
+        "href": "https://www.dic.go.jp/happyo/chotatsu_kokoku.html",
+        "type": "webpage"
+      },
+      {
+        "text": "名寄せ",
+        "href": "https://www.dic.go.jp/yokinsha/page_000017.html",
+        "type": "webpage"
+      },
+      {
+        "text": "破綻処理の方法",
+        "href": "https://www.dic.go.jp/yokinsha/page_000019.html",
+        "type": "webpage"
+      },
+      {
+        "text": "保護範囲を超える預金等の取扱い",
+        "href": "https://www.dic.go.jp/yokinsha/page_000021.html",
+        "type": "webpage"
+      },
+      {
+        "text": "相殺",
+        "href": "https://www.dic.go.jp/yokinsha/page_000022.html",
+        "type": "webpage"
+      },
+      {
+        "text": "預金保険制度とは？",
+        "href": "https://www.dic.go.jp/yokinsha/page_000013.html",
+        "type": "webpage"
+      },
+      {
+        "text": "対象預金",
+        "href": "https://www.dic.go.jp/yokinsha/page_000015.html",
+        "type": "webpage"
+      },
+      {
+        "text": "保護の範囲",
+        "href": "https://www.dic.go.jp/yokinsha/page_000016.html",
+        "type": "webpage"
+      },
+      {
+        "text": "対象金融機関",
+        "href": "https://www.dic.go.jp/yokinsha/page_000014.html",
+        "type": "webpage"
+      },
+      {
+        "text": "保護の仕組み",
+        "href": "https://www.dic.go.jp/yokinsha/page_000018.html",
+        "type": "webpage"
+      },
+      {
+        "text": "保護される預金の払戻し時期",
+        "href": "https://www.dic.go.jp/yokinsha/page_000020.html",
+        "type": "webpage"
+      },
+      {
+        "text": "サイトマップ",
+        "href": "https://www.dic.go.jp/sitemap.html",
+        "type": "webpage"
+      },
+      {
+        "text": "サイトのご利用方法",
+        "href": "https://www.dic.go.jp/goriyohoho.html",
+        "type": "webpage"
+      },
+      {
+        "text": "事務所案内",
+        "href": "https://www.dic.go.jp/jimusho.html",
+        "type": "webpage"
+      },
+      {
+        "text": "リンク・著作権等",
+        "href": "https://www.dic.go.jp/chosakuken.html",
+        "type": "webpage"
+      },
+      {
+        "text": "過去のホームページデータ",
+        "href": "https://www.dic.go.jp/toshokan.html",
+        "type": "webpage"
+      },
+      {
+        "text": "プライバシーポリシー",
+        "href": "https://www.dic.go.jp/kojinjoho.html",
+        "type": "webpage"
+      },
+      {
+        "text": "ウェブアクセシビリティ方針",
+        "href": "https://www.dic.go.jp/accessibility.html",
+        "type": "webpage"
+      },
+      {
+        "text": "ソーシャルメディア運用方針",
+        "href": "https://www.dic.go.jp/social.html",
+        "type": "webpage"
+      },
+      {
+        "text": "お問い合わせ・ご意見",
+        "href": "https://www.dic.go.jp/toiawase.html",
+        "type": "webpage"
+      },
+      {
+        "text": "採用情報",
+        "href": "https://www.dic.go.jp/happyo/page_001931.html",
+        "type": "webpage"
+      },
+      {
+        "text": "リンク集",
+        "href": "https://www.dic.go.jp/link.html",
+        "type": "webpage"
+      }
+    ]
+  }
+}
