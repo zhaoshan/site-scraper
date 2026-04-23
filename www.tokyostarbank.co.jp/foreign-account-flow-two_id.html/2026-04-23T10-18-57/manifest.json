@@ -1,0 +1,22 @@
+{
+  "startTime": "2026-04-23T10:18:57.582Z",
+  "url": "https://www.tokyostarbank.co.jp/foreign/account/flow/two_id.html",
+  "pages": [
+    {
+      "url": "https://www.tokyostarbank.co.jp/foreign/account/flow/two_id.html",
+      "title": "WEB口座開設（本人確認書類2点）| 外国籍のお客さま【東京スター銀行】",
+      "depth": 0,
+      "path": "/Users/zhaoshan/site-scraper-output/www.tokyostarbank.co.jp/foreign-account-flow-two_id.html/2026-04-23T10-18-57",
+      "links": 68,
+      "timestamp": "2026-04-23T10:19:41.112Z"
+    }
+  ],
+  "totalImages": 18,
+  "totalDocuments": 10,
+  "totalLinks": 68,
+  "endTime": "2026-04-23T10:19:41.218Z",
+  "stats": {
+    "pagesCrawled": 1,
+    "visitedUrls": 1
+  }
+}
